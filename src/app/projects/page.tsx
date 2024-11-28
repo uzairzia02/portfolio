@@ -71,7 +71,7 @@ export default function Projects() {
                 </button>
             </div>
 
-            <div className="absolute top-1/2 right-8 transform -translate-y-1/2">
+            <div className="absolute top-1/2 right-0 transform -translate-y-1/2">
                 <button
                 onClick={handlePrev}
                 className="text-white bg-gray-700 px-4 py-2 rounded-full "
